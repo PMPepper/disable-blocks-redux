@@ -1,0 +1,7 @@
+﻿"workshopitem"
+{
+	"appid" "244850"
+	"publishedfileid" "3152227618"
+	"contentfolder" "C:\\Users\Paul\\source\\repos\\disable-blocks-redux\\src"
+	"previewfile" "C:\\Users\Paul\\source\\repos\\disable-blocks-redux\\src\\thumb.jpg"
+}
